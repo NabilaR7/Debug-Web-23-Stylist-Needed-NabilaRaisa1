@@ -1,0 +1,18 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+p {
+  color: black;
+  /*changed the font to 12 px*/
+  font-size: 12px;
+}
+h1 {
+  font-weight: bold;
+  /*changed h1 to blue*/
+color: blue;
+}
+h2 {
+  /*changed h2 to green*/
+  color: green;
+}
+
